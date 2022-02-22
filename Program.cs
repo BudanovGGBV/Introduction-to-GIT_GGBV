@@ -8,7 +8,6 @@ namespace Introduction_to_GIT
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("I've added message for console output!");
-            Console.WriteLine("Feature branch 1 - development 2");
         }
     }
 }
